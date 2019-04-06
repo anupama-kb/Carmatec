@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 1
+  item: one
+  tax_type: 9.99
+  tax: 1.5
+
+two:
+  id: 1
+  item: two
+  tax_type: 9.99
+  tax: 1.5
